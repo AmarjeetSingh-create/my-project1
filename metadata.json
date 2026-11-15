@@ -1,0 +1,6 @@
+{
+  "name": "Kisan Mitra",
+  "description": "AI Agronomist for Punjab and Northern India farmers — crop disease photo diagnosis, Punjabi/Hindi/English voice note support, and safe organic & chemical remedies.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
